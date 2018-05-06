@@ -21,3 +21,5 @@ if spam == 10:
         print('ham')
     print('spam')
 print('spam')
+
+spam.bacon()
